@@ -36,8 +36,11 @@
 <br/>
 
 <div align="center" >
-  <a href="https://stack-stats.herokuapp.com/stats?id=13544849" target="_blank" rel="noopener noreferrer">
-      <img src="https://stack-stats.herokuapp.com/stats?id=13544849" alt="stack stats" />&nbsp;
+  <a href="https://github.com/kurt-liao/so-stats">
+    <img
+      height="200"
+      src="https://so-stats-kurt-liao.vercel.app/api?user=13544849"
+    />
   </a>
 </div>
 
