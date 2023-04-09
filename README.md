@@ -6,7 +6,7 @@
 ### <div align="center">Hey 🖐️ I'm Evren!</div>  
   
 
-- 💻 I’m currently working on Micro Frontend project with React & Typescript & Redux & Redux-Saga & Sass & Tailwind  
+- 💻 I am currently working on a project for one of Italy's largest banks, developing trading platforms using React, Typescript, Redux, Redux-Toolkit, Less, and Jest.
   
 
 - ❓ Ask me about anything related to Frontend  
