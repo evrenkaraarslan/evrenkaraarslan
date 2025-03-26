@@ -4,10 +4,6 @@
   
 
 ### <div align="center">Hey 🖐️ I'm Evren!</div>  
-  
-- ⚡ Portfolio : https://evrenkaraarslan.surge.sh
-  
-
 <br/>  
 
 ## Connect with me  
