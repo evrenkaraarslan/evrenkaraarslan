@@ -5,13 +5,6 @@
 
 ### <div align="center">Hey 🖐️ I'm Evren!</div>  
   
-
-- 💻 I am currently working on a project for one of Italy's largest banks, developing trading platforms using React, Typescript, Redux, Redux-Toolkit, Less, and Jest.
-  
-
-- ❓ Ask me about anything related to Frontend  
-  
-
 - ⚡ Portfolio : https://evrenkaraarslan.surge.sh
   
 
